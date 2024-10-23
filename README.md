@@ -19,10 +19,8 @@ Welcome to the **Hire Me App**! This Flutter-based application connects you with
 ## 🎨 Screenshots
 
 ![Home Screen](assets/images/f_saki_icon.png)
-*Your hiring journey starts here!*
+**Your hiring journey starts here!**
 
-![Recent Works](assets/images/recent_works.png)
-*Showcase your amazing projects!*
 
 ## 📈 How to Run the App
 
