@@ -30,5 +30,5 @@ To run the Hire Me App locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hire_me_app.git
+   git https://github.com/FahimSaki/Hire-Saki.git
    cd hire_me_app
