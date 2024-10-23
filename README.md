@@ -1,6 +1,6 @@
-# 🚀 Hire Me App
+# 🚀 Hire Saki App
 
-Welcome to the **Hire Me App**! This Flutter-based application connects you with potential clients looking for your unique skills and services. Whether you are a freelancer or a professional looking for new projects, this app is your go-to platform for showcasing your work and getting hired! 💼✨
+Welcome to the **Hire Saki App**! This Flutter-based application connects you with potential clients looking for your unique skills and services. Whether you are a freelancer or a professional looking for new projects, this app is your go-to platform for showcasing your work and getting hired! 💼✨
 
 ## 📱 Features
 
