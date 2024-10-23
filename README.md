@@ -16,7 +16,7 @@ Welcome to the **Hire Me App**! This Flutter-based application connects you with
 - **Dart**: The programming language used to create the app, ensuring fast performance and high productivity. ⚡
 - **Responsive Design Principles**: Utilizing best practices for responsive layouts to enhance user experience. 📐
 
-## 🎨 Screenshots
+## 🎨 Hire Saki
 
 ![App Icon](assets/images/f_saki_icon.png)
 **Your hiring journey starts here!**
